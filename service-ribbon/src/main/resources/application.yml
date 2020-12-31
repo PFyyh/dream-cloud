@@ -5,6 +5,9 @@ spring:
   application:
     name: service-ribbbon
 
+ribbon:
+  eureka:
+    enabled: true
 eureka:
   client:
     serviceUrl:

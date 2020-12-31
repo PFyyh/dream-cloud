@@ -1,0 +1,17 @@
+/.idea/
+/target/
+/dream-cloud.iml
+/eureka-server/mvnw.cmd
+/eureka-server/mvnw
+/service-feign/.mvn/wrapper/
+/service-feign/mvnw
+/service-feign/mvnw.cmd
+/service-hi/.mvn/wrapper/
+/service-hi/mvnw.cmd
+/service-hi/mvnw
+/service-ribbon/.mvn/wrapper/
+/service-ribbon/mvnw
+/service-ribbon/mvnw.cmd
+/service-zuul/mvnw
+/service-zuul/mvnw.cmd
+/service-zuul/.mvn/wrapper/
